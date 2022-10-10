@@ -1,0 +1,19 @@
+{
+  "name": "projectj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAntonioRM/prework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAntonioRM/prework/issues"
+  },
+  "homepage": "https://github.com/CAntonioRM/prework#readme"
+}
