@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CAntonioRM/prework/issues"
   },
-  "homepage": "https://github.com/CAntonioRM/prework#readme"
+  "homepage": "https://github.com/CAntonioRM/prework#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
